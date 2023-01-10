@@ -1,7 +1,7 @@
 <h1 align="center">Hey <img src="https://github.com/0xPrakharG/0xPrakharG/blob/main/resources/img/waving.gif?raw=true" width="30px" height="30px">, I'm Prakhar Goyal</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Namaste..&hearts;++;Self-taught+Front-End+Developer;Information+Technology+Student;Blockchain+Enthusiast;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Namaste..&hearts;++;Information+Technology+Student;Front-End+Web+Developer;Blockchain+Enthusiast;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 <div align="center">
