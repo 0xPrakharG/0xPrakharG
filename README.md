@@ -101,7 +101,7 @@
 <hr>
 <br>
 
-<h1 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Contribution Graph</b></h1>
+<h1 align="center"><img src="https://media0.giphy.com/media/bmQBu3aSF0DxadphkG/giphy.gif?cid=ecf05e47qryzyp39h3t6xj9ncqktmplncdj3l1h5rdxugzae&rid=giphy.gif&ct=g" width="35"><b> Contribution Graph</b></h1>
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=0xPrakharG&theme=tokyo-night&area=true&hide_border=true#gh-dark-mode-only" width="100%">
 
 <hr>
