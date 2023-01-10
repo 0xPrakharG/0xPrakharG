@@ -20,8 +20,8 @@
 
 <br>
 <br>
-<hr>
 <br>
+<hr>
 
 <h2 align="center"><img src="https://github.com/0xPrakharG/0xPrakharG/blob/main/resources/img/handshake.gif?raw=true" width="80px"> You can reach me by</h2>
 
