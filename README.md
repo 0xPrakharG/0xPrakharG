@@ -4,9 +4,9 @@
   <img  src="https://raw.githubusercontent.com/0xPrakharG/0xPrakharG/d00eda5acadf45a466bb57f22b4c02d3a0c58bfc/resources/img/gride-snake.svg" alt="snake" />
 </div>
 
-## <picture><img src = "./assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/0xPrakharG/0xPrakharG/blob/main/resources/img/about_me.gif?raw=true" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="./assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/0xPrakharG/0xPrakharG/blob/main/resources/img/Right_Side.gif?raw=true" width = 250px></picture>
 
 * 📖 Pursuing my Bachelor's in Information Technology from Manipal University Jaipur. 
 
