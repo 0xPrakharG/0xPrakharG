@@ -4,7 +4,7 @@
   <img  src="https://raw.githubusercontent.com/0xPrakharG/0xPrakharG/d00eda5acadf45a466bb57f22b4c02d3a0c58bfc/resources/img/gride-snake.svg" alt="snake" />
 </div>
 
-## <picture><img src = "https://github.com/0xPrakharG/0xPrakharG/blob/main/resources/img/about_me.gif?raw=true" width = 50px></picture> **About me**
+<h1 align="center"><picture><img src = "https://github.com/0xPrakharG/0xPrakharG/blob/main/resources/img/about_me.gif?raw=true" width = 50px></picture> About me</h1>
 
 <picture> <img align="right" src="https://github.com/0xPrakharG/0xPrakharG/blob/main/resources/img/Right_Side.gif?raw=true" width = 250px></picture>
 
@@ -19,6 +19,8 @@
 * 🧱 Blockchain enthusiast.
 
 <br>
+<br>
+<hr>
 <br>
 
 <h2 align="center"><img src="https://github.com/0xPrakharG/0xPrakharG/blob/main/resources/img/handshake.gif?raw=true" width="80px"> You can reach me by</h2>
