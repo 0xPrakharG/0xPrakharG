@@ -1,7 +1,7 @@
 <h1 align="center">Hey <img src="https://github.com/0xPrakharG/0xPrakharG/blob/main/resources/img/waving.gif?raw=true" width="30px" height="30px">, I'm Prakhar Goyal</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Namaste..&hearts;++;Information+Technology+Student;Front-End+Web+Developer;Blockchain+Enthusiast;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Namaste..&hearts;++;Information+Technology+Student;Front-End+Web+Developer;Open-Source+Contribution;Blockchain+Enthusiast"></a>
 </p>
 
 <div align="center">
@@ -14,13 +14,13 @@
 <br>
 * 📖 Pursuing my Bachelor's in Information Technology from Manipal University Jaipur. 
 
-* 🧑🏻‍💻 Tech enthusiast, Frontend Web-Developer.
-
-* 💡 Always open to collaborating on projects and innovative/disruptive ideas. 
+* 🧑🏻‍💻 Frontend Web-Developer, Open-Source Contribution.
 
 * 💻 Currently learning Back-End tech.
 
 * 🧱 Blockchain enthusiast.
+
+* 💡 Always open to collaborating on projects and innovative/disruptive ideas.
 
 <br>
 <br>
