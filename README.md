@@ -101,5 +101,5 @@
 <hr>
 <br>
 
-<h1 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b></h1>
-![Prakhar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=0xPrakharG&theme=tokyo-night&area=true&hide_border=true#gh-dark-mode-only)
+<h1 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Contribution Graph </b></h1>
+[![Prakhar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=0xPrakharG&theme=tokyo-night&area=true&hide_border=true#gh-dark-mode-only)](https://github.com/ashutosh00710/github-readme-activity-graph)
