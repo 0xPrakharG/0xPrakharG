@@ -88,12 +88,18 @@
 <div align="center">
 
 <a href="https://github.com/0xPrakharG/">
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xPrakharG&layout=compact&hide_border=true&theme=radical" />
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xPrakharG&layout=compact&hide_border=true&theme=nightowl" />
 </a>
 <br>
 <br>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=0xPrakharG&show_icons=true&hide_border=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=0xPrakharG&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=0xPrakharG&show_icons=true&hide_border=true&theme=nightowl" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=0xPrakharG&hide_border=true&theme=nightowl" />
 </p>
 </div>
+
+<hr>
+<br>
+
+<h1 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b></h1>
+![Prakhar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=0xPrakharG&theme=tokyo-night&area=true&hide_border=true#gh-dark-mode-only)
