@@ -1,5 +1,9 @@
 <h1 align="center">Hey <img src="https://github.com/0xPrakharG/0xPrakharG/blob/main/resources/img/waving.gif?raw=true" width="30px" height="30px">, I'm Prakhar Goyal</h1>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Namaste..&hearts;++;Self-taught+Front-End+Developer;Information+Technology+Student;Blockchain+Enthusiast;Love+to+learn+new+stuffs..<3"></a>
+</p>
+
 <div align="center">
   <img  src="https://raw.githubusercontent.com/0xPrakharG/0xPrakharG/d00eda5acadf45a466bb57f22b4c02d3a0c58bfc/resources/img/gride-snake.svg" alt="snake" />
 </div>
@@ -39,7 +43,7 @@
 	</a>
   </p>
   <p align="center">
-  <a href="https://instagram.com/azzar_budiyanto" target="blank">
+  <a href="https://www.instagram.com/prakhar.3014/" target="blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" width="100" height="30"/>
   </a>
   <a href="https://wa.me/+919305325616" target="blank">
