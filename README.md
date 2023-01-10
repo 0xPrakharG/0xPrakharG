@@ -29,6 +29,8 @@
   <a href="mailto:prakhargoyal.3014@gmail.com" target="blank">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
+  </p>
+  <p>
   <a href="https://instagram.com/azzar_budiyanto" target="blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
