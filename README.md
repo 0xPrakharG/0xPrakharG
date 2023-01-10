@@ -4,6 +4,10 @@
   <img  src="https://raw.githubusercontent.com/0xPrakharG/0xPrakharG/d00eda5acadf45a466bb57f22b4c02d3a0c58bfc/resources/img/gride-snake.svg" alt="snake" />
 </div>
 
+## <picture><img src = "./assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
+<picture> <img align="right" src="./assets/mdImages/Right_Side.gif" width = 250px></picture>
+
 * 📖 Pursuing my Bachelor's in Information Technology from Manipal University Jaipur. 
 
 * 🧑🏻‍💻 Tech enthusiast, Frontend Web-Developer.
