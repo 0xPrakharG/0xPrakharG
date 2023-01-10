@@ -18,6 +18,9 @@
 
 * 🧱 Blockchain enthusiast.
 
+<br>
+<br>
+
 <h2 align="center">You can reach me by:</h2>
 
 <p align="center">
