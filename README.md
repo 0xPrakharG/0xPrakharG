@@ -20,7 +20,6 @@
 
 <br>
 <br>
-<br>
 <hr>
 
 <h2 align="center"><img src="https://github.com/0xPrakharG/0xPrakharG/blob/main/resources/img/handshake.gif?raw=true" width="80px"> You can reach me by</h2>
@@ -51,7 +50,7 @@
 <hr>
 <br>
 
-<h1 align="center">⚡ Tech Stack</h1>
+<h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tech Stack</h1>
 
 <h3>🚀 Languages</h3>
 
@@ -82,3 +81,5 @@
 
 <hr>
 <br>
+
+<h1><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b></h1>
