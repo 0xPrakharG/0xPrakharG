@@ -21,7 +21,7 @@
 <br>
 <br>
 
-<h2 align="center">You can reach me by:</h2>
+<h2 align="center"><img src="https://github.com/0xPrakharG/0xPrakharG/blob/main/resources/img/handshake.gif?raw=true" width="30px" height="30px"> You can reach me by</h2>
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/0xprakharg/" target="blank">
