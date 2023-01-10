@@ -7,7 +7,7 @@
 <h1 align="center"><picture><img src = "https://github.com/0xPrakharG/0xPrakharG/blob/main/resources/img/about_me.gif?raw=true" width = 50px></picture> About me</h1>
 
 <picture> <img align="right" src="https://github.com/0xPrakharG/0xPrakharG/blob/main/resources/img/Right_Side.gif?raw=true" width = 250px></picture>
-
+<br>
 * 📖 Pursuing my Bachelor's in Information Technology from Manipal University Jaipur. 
 
 * 🧑🏻‍💻 Tech enthusiast, Frontend Web-Developer.
