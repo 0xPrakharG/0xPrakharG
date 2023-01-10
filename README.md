@@ -10,7 +10,7 @@
 
 <h1 align="center"><picture><img src = "https://github.com/0xPrakharG/0xPrakharG/blob/main/resources/img/about_me.gif?raw=true" width = 50px></picture> About me</h1>
 
-<picture> <img align="right" src="https://github.com/0xPrakharG/0xPrakharG/blob/main/resources/img/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <a href="https://app.daily.dev/0xPrakharG"><img align="right" src="https://api.daily.dev/devcards/a1201dc0817e4293b17f2f0c5ae2d1be.png?r=mtz" width="400" alt="Prakhar Goyal's Dev Card"/></a></picture>
 <br>
 * 📖 Pursuing my Bachelor's in Information Technology from Manipal University Jaipur. 
 
