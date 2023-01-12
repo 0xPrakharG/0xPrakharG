@@ -97,8 +97,8 @@
 <br>
 <br>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=0xPrakharG&show_icons=true&hide_border=true&theme=nightowl" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=0xPrakharG&hide_border=true&theme=nightowl" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=0xPrakharG&show_icons=true&hide_border=true&theme=nightowl&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=0xPrakharG&hide_border=true&theme=nightowl&count_private=true" />
 </p>
 </div>
 
