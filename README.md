@@ -92,7 +92,7 @@
 <div align="center">
 
 <a href="https://github.com/0xPrakharG/">
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xPrakharG&layout=compact&hide_border=true&theme=nightowl" />
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xPrakharG&layout=compact&hide_border=true&theme=nightowl&count_private=true" />
 </a>
 <br>
 <br>
