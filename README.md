@@ -1,14 +1,11 @@
-<h1 align="center">Hey <img src="https://github.com/0xPrakharG/0xPrakharG/blob/main/resources/img/waving.gif?raw=true" width="30px" height="30px">, I'm Prakhar Goyal</h1>
+<h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">, I'm Prakhar Goyal</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Namaste..&hearts;++;Information+Technology+Student;Front-End+Web+Developer;Open-Source+Contribution;Blockchain+Enthusiast"></a>
 </p>
 
-<div align="center">
-  <img  src="https://raw.githubusercontent.com/0xPrakharG/0xPrakharG/d00eda5acadf45a466bb57f22b4c02d3a0c58bfc/resources/img/gride-snake.svg" alt="snake" />
-</div>
 
-<h1 align="center"><picture><img src = "https://github.com/0xPrakharG/0xPrakharG/blob/main/resources/img/about_me.gif?raw=true" width = 50px></picture> About me</h1>
+<h1 align="center"><img src = "https://media.giphy.com/media/gUF6XKi8Jmh6dpc961/giphy.gif" width = 40px> About me</h1>
 
 <picture> <a href="https://app.daily.dev/0xPrakharG"><img align="right" src="https://api.daily.dev/devcards/a1201dc0817e4293b17f2f0c5ae2d1be.png?r=mtz" width="350" height="550" alt="Prakhar Goyal's Dev Card"/></a></picture>
 <br>
