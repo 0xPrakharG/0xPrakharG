@@ -69,6 +69,7 @@
 ![Tailwind-CSS](https://img.shields.io/badge/Tailwind-ff6666?style=for-the-badge&logo=tailwindcss&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-808791?style=for-the-badge&logo=mongodb&logoColor=green)
 
 <br>
 <h3>🧑🏻‍💻 Tools & Platform</h3>
