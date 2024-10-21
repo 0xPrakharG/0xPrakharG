@@ -10,14 +10,11 @@
 
 <br> 
 * 🧑🏻‍💻 Frontend Web-Developer, Open-Source Contribution.
-<br>
 
 * 💻 Currently learning Back-End tech.
-<br>
 
 * 🧱 Blockchain enthusiast.
-<br>
-
+  
 * 💡 Always open to collaborating on projects and innovative/disruptive ideas.
 
 <br>
