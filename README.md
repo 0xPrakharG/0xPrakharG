@@ -11,7 +11,7 @@
 <br> 
 * 🧑🏻‍💻 Frontend Web-Developer, Open-Source Contribution.
 
-* 💻 Currently learning Back-End tech.
+* 💻 Currently learning Solidity.
 
 * 🧱 Blockchain enthusiast.
   
