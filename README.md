@@ -8,9 +8,7 @@
 <h1 align="center"><img src = "https://media.giphy.com/media/gUF6XKi8Jmh6dpc961/giphy.gif" width = 40px> About me</h1>
 
 
-<br>
-* 📖 Pursuing my Bachelor's in Information Technology from Manipal University Jaipur. 
-
+<br> 
 * 🧑🏻‍💻 Frontend Web-Developer, Open-Source Contribution.
 
 * 💻 Currently learning Back-End tech.
