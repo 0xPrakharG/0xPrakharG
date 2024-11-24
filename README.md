@@ -9,7 +9,7 @@
 
 
 <br> 
-* 🧑🏻‍💻 Frontend Web-Developer, Open-Source Contribution.
+* 🧑🏻‍💻 Full-Stack Web-Developer, Open-Source Contribution.
 
 * 💻 Currently learning Solidity.
 
